@@ -19,7 +19,7 @@
 
 ## Screenshots
 
-![Tic-Tac-Toe Game](tic-tac-toe.png)
+![Tic-Tac-Toe Game](tic-tac-toe.jpeg)
 *Screenshot of the Tic-Tac-Toe web application.*
 
 ## Setup Instructions
